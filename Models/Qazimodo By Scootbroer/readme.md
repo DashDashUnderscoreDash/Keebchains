@@ -1,4 +1,4 @@
-### [Qazimodo](https://qazimodo.com/)
+# [Qazimodo](https://qazimodo.com/)
 
 ## Inspired by the layouts of the QAZ and the Vault 35, Qazimodo is a top-mounted QAZ-ish keyboard with additional exploded Q, A, and Z keys
 

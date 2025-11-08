@@ -4,4 +4,6 @@
 
 Available from [Mechvault](https://mechvault.net) when in stock
 
-This model hasn't been tested yet! There's probably not anything wrong with it, but it's always possible that there are errors. 
+Now tested!
+
+[Vault 35 in WKL and HHKB](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Vault%2035%20By%20Astra/Images/two_vaults.jpg)

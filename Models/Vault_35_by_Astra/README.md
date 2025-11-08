@@ -6,5 +6,5 @@ Available from [Mechvault](https://mechvault.net) when in stock
 
 Now tested!
 
-![Vault 35 in WKL and HHKB](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Vault%2035%20By%20Astra/Images/two_vaults.jpg)
+![Vault 35 in WKL and HHKB](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Vault_35_By_Astra/Images/two_vaults.jpg)
 

@@ -2,7 +2,7 @@
 - Case designed by 40s member Siege
 - The case is for the Alpha28 PCB
 
-Model by [Siege](https://github.com/sbkeebs)
+Model and OG design by Siege
 
 To mny knowledge this print has not been tested as of 11.12.25
 

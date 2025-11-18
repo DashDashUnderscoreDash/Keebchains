@@ -4,7 +4,7 @@
 
 Model and OG design by Siege
 
-To mny knowledge this print has not been tested as of 11.12.25
+To my knowledge this print has not been tested as of 11.12.25
 
 ![FlotsamImage](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Flotsam%20By%20Siege/Images/Flotsam.png)
 

@@ -5,4 +5,4 @@
 
 
 
-![V4N4G0N](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Oceanographer%20by%20Hedgey/Images/Oceanographer.jpg?raw=true)
+![V4N4G0N](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/V4N4G0N%20by%20Trashman%20(Model%20by%20Hedgey)/Images/V4N4G0N%20keebchains.jpg?raw=true)

@@ -1,10 +1,7 @@
-## Vault 35:
-- is designed by [Cain/Mechvault](https://mechvault.net)
-- comes in HHKB and WKL
+## Oceanographer:
+- Is a board designed by 40s member Hedgey
+- [Link to old Geekhack thread for the now completed GB](https://geekhack.org/index.php?topic=114413.0)
 
-Available from [Mechvault](https://mechvault.net) when in stock
 
-Now tested!
 
-![Vault 35 in WKL and HHKB](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Vault%2035%20by%20Astra/Images/two_vaults.jpg)
-
+![Oceanographer](https://github.com/DashDashUnderscoreDash/Keebchains/blob/main/Models/Oceanographer%20by%20Hedgey/Images/Oceanographer.jpg?raw=true)
